@@ -1,8 +1,8 @@
-const WEATHER_API_KEY = "efce923fdeaa8b3017a1d2da22a5ca95";
+const WEATHER_API_KEY = "27af53e6bd42222aa5b8aec48cecd098";
 const WEATHER_API = "https://api.openweathermap.org";
 const defaultCoords = { lat: 33.625274, lon: -112.21869 };
 const NPS_API = "https://developer.nps.gov/api/v1/parks";
-const NPS_API_KEY = "P7v76VxhVDmo5rOLwAyEnDqiIYeclDPZgcT0CdBK";
+const NPS_API_KEY = "qDb5LykvTUnnmM94EkVANsbmeVZKRH2HSwj77Y5t";
 
 // easy way to reuse and build the url
 /**
