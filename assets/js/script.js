@@ -1,4 +1,4 @@
-const WEATHER_API_KEY = "27af53e6bd42222aa5b8aec48cecd098";
+const WEATHER_API_KEY = "d6940738d6d84f19747c5417f864cd84";
 const WEATHER_API = "https://api.openweathermap.org";
 const defaultCoords = { lat: 33.625274, lon: -112.21869 };
 const NPS_API = "https://developer.nps.gov/api/v1/parks";
